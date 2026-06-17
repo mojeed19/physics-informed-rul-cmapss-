@@ -1,10 +1,5 @@
-# Physics-Informed RUL Prediction with Calibrated Uncertainty
+## Physics-Informed RUL Prediction with Calibrated Uncertainty
 
-**Repository name suggestion:** `physics-informed-rul-cmapss`
-
-**Repository description (GitHub one-liner):** Physics-constrained deep ensemble for turbofan engine remaining-useful-life prediction with calibrated uncertainty quantification, evaluated on NASA C-MAPSS.
-
----
 
 ## Table of Contents
 
